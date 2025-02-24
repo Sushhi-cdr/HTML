@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Test</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <nav id="menu-h">
+    <ul>
+      <li><a href="#"><img src="https://static.vecteezy.com/system/resources/previews/000/378/951/original/home-vector-icon.jpg" width="30px"></a></li>
+      <li><a href="#"><button type="button" class="btn-primary btn-lg">MENU</button></a></li>
+    </ul> 
+  </nav>
+
+<div class="grid-container">
+  <div class="grid-item">CAMERA 1</div>
+  <div class="grid-item">CAMERA 2</div>  
+  <div class="grid-item">CAMERA 3</div>  
+  <div class="grid-item">CAMERA 4</div>  
+  <div class="grid-item">CAMERA 5</div>  
+  <div class="grid-item">CAMERA 6</div>  
+    
+  <img src="https://static3.tcdn.com.br/img/img_prod/332274/camera_intelbras_vhd_1220_dome_full_hd_com_visao_notunra_de_20m_multi_hd_21038_1_ac9a3a36e2ce92f4a7b21a67db841aa0.jpg" width="200px">
+  <img src="https://static3.tcdn.com.br/img/img_prod/332274/camera_intelbras_vhd_1220_dome_full_hd_com_visao_notunra_de_20m_multi_hd_21038_1_ac9a3a36e2ce92f4a7b21a67db841aa0.jpg" width="200px">
+  <img src="https://static3.tcdn.com.br/img/img_prod/332274/camera_intelbras_vhd_1220_dome_full_hd_com_visao_notunra_de_20m_multi_hd_21038_1_ac9a3a36e2ce92f4a7b21a67db841aa0.jpg" width="200px">
+  <img src="https://static3.tcdn.com.br/img/img_prod/332274/camera_intelbras_vhd_1220_dome_full_hd_com_visao_notunra_de_20m_multi_hd_21038_1_ac9a3a36e2ce92f4a7b21a67db841aa0.jpg" width="200px">
+  <img src="https://static3.tcdn.com.br/img/img_prod/332274/camera_intelbras_vhd_1220_dome_full_hd_com_visao_notunra_de_20m_multi_hd_21038_1_ac9a3a36e2ce92f4a7b21a67db841aa0.jpg" width="200px">
+  <img src="https://static3.tcdn.com.br/img/img_prod/332274/camera_intelbras_vhd_1220_dome_full_hd_com_visao_notunra_de_20m_multi_hd_21038_1_ac9a3a36e2ce92f4a7b21a67db841aa0.jpg" width="200px">
+</div>
+
+<div mp="1">
+  <table width="100%" border="1">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">NOMES</th>
+        <th scope="col">ULTIMO ACESSO</th>
+        <th scope="col">INFO</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">1</th>
+        <td>Mark Otto</td>
+        <td>23/02/2025</td>
+        <td>@mdo</td>
+      </tr>
+      <tr>
+        <th scope="row">2</th>
+        <td>Jacob Thornton</td>
+        <td>19/02/2025</td>
+        <td>@fat</td>
+      </tr>
+      <tr>
+        <th scope="row">3</th>
+        <td>Larry Gary</td>
+        <td>05/02/2025</td>
+        <td>@twitter</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+</body>
+</html>
