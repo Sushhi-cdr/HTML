@@ -1,0 +1,29 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background: white;
+    font-family: arial;
+}
+
+.box {
+    width: 250px;
+    background-color: rgb(146, 146, 146);
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+
+.caixatr {
+    width: 250px;
+    padding: 20px;
+}
+
+.table {
+    background-color: rgb(206, 206, 206);
+    padding: 10px;
+    
+}
