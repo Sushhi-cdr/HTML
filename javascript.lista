@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <label id="name">Nome</label>
+        <input type="text" class="form-control" />
+        <label id="age">Idade</label>
+        <input type="text" class="form-control"/>
+        <button onclick="lista">Enviar</button>
+    </div>
+
+
+    <script>
+        function lista() {
+            elem1 = document.getElementById("name");
+            "lista" [
+                {"nome":"elem1", "idade":"elem2"},
+            ]
+        }
+    </script>
+</body>
+</html>
